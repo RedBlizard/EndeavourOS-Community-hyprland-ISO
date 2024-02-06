@@ -1,18 +1,7 @@
-# EndeavourOS-ISO
+# EndeavourOS-ISO (Community Edition)
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2024.svg)]()
 
-**main** branch is development latest (unstable)
-
-### Developers:
-- [joekamprad](https://github.com/killajoe)
-- [manuel](https://github.com/manuel-192)
-- [fernandomaroto](https://github.com/Portergos) (initial developer)
-
-### Contributors:
-- [keybreak](https://github.com/keybreak)
-
-..and our beloved community
 
 This ISO is based on hugely modified Arch-ISO to provide Installation Environment for EndeavourOS.  
 More info at [EndeavourOS-GitHub-Development](https://endeavouros-team.github.io/EndeavourOS-Development/)
