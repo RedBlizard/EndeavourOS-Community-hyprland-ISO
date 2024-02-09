@@ -71,7 +71,8 @@ rm -rf "/root/packages/"
 #systemctl enable NetworkManager.service systemd-timesyncd.service bluetooth.service firewalld.service
 #systemctl enable vboxservice.service vmtoolsd.service vmware-vmblock-fuse.service
 #systemctl enable intel.service
-systemctl set-default multi-user.target
+systemctl enable greetd.service
+#systemctl set-default multi-user.target
 
 # Set wallpaper for live-session and original for installed system
 #mv "endeavouros-wallpaper.png" "/etc/calamares/files/endeavouros-wallpaper.png"
