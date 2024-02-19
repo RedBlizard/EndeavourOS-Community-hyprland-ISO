@@ -13,7 +13,7 @@ chmod +x "./"{"mkarchiso","run_before_squashfs.sh"}
 
 yay -S --makepkgconf ~/Documents/hyprland/EndeavourOS-Community-hyprland-ISO/makepkg.conf --noconfirm cava wlogout nwg-look-bin swww networkmanager-dmenu-bluetoothfix-git
 cp ~/Documents/hyprland/EndeavourOS-Community-hyprland-ISO/aurbuilds/* ~/Documents/hyprland/EndeavourOS-Community-hyprland-ISO/airootfs/root/packages/
-sudo pacman -Rsc --noconfirm networkmanager-dmenu-bluetoothfix-git swww wlogout nwg-look-bin cava
+#sudo pacman -Rsc --noconfirm networkmanager-dmenu-bluetoothfix-git swww wlogout nwg-look-bin cava
 
 # Build liveuser skel
 cd "airootfs/root/endeavouros-skel-liveuser"
