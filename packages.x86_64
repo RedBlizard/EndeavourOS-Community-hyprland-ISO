@@ -73,6 +73,7 @@ xorg-xinit
 xorg-xinput
 xorg-xkill
 xorg-xrandr
+xorg-xhost
 
 ## Network hardware
 b43-fwcutter
@@ -98,6 +99,7 @@ pavucontrol
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+pulsemixer
 rtkit
 sof-firmware
 wireplumber
@@ -153,6 +155,7 @@ ndisc6
 net-tools
 netctl
 networkmanager
+nm-connection-editor
 networkmanager-openconnect
 networkmanager-openvpn
 nss-mdns
@@ -200,14 +203,17 @@ hdparm
 ## Desktop environment
 alacritty
 btop
+cliphist
+dunst
 htop
-glances
 git
 wofi
 waybar
 neofetch
+nwg-look
+polkit-gnome
 swaylock
-awesome-terminal-fonts
+swaybg
 swayidle
 hyprland
 kitty
